@@ -8,7 +8,7 @@ const Navigation = () => {
           <h1>React Router Mini</h1>
           <nav>
           <div>
-          <Link to="/home">Home</Link>
+          <Link to="/">Home</Link>
       </div>
       <div>
           <Link to="/about">About</Link>
